@@ -1,2 +1,2 @@
 # melted-ice-arch.github.io
-A Snail IDE mod
+so a website

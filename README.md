@@ -1,2 +1,2 @@
-# flashcar.github.io
+# melted-ice-arch.github.io
 About flashcar
